@@ -1,0 +1,10 @@
+name=input("enter your full name :")
+print(" name :",name)
+uppercase=name.upper()
+lowercase=name.lower()
+reverse=name.lower()[::-1]
+length=len(name)
+print(uppercase)
+print(lowercase)
+print(reverse)
+print(length)
