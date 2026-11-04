@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbd3eada-f1d6-442c-a17d-03cfc5972123" name="Changes" comment="" />
+    <list default="true" id="bbd3eada-f1d6-442c-a17d-03cfc5972123" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab8/program_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,22 +29,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.arthimetic.executor&quot;: &quot;Run&quot;,
-    &quot;Python.celsius_to_fahrenheit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.escape_sequence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.greetings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_manipulation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variable_practice.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.armstrong.executor": "Run",
+    "Python.arthimetic.executor": "Run",
+    "Python.butterfly_pattern.executor": "Run",
+    "Python.celsius_to_fahrenheit.executor": "Run",
+    "Python.escape_sequence.executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "Python.greetings.executor": "Run",
+    "Python.hollow_diamond.executor": "Run",
+    "Python.inverted_triangle.executor": "Run",
+    "Python.matrix.executor": "Run",
+    "Python.menu_driven.executor": "Run",
+    "Python.number_guessing_game.executor": "Run",
+    "Python.number_pattern.executor": "Run",
+    "Python.palindrome.executor": "Run",
+    "Python.prefect_no.executor": "Run",
+    "Python.prime.executor": "Run",
+    "Python.program_1.executor": "Run",
+    "Python.pyramid.executor": "Run",
+    "Python.right_triangle.executor": "Run",
+    "Python.square.executor": "Run",
+    "Python.star.executor": "Run",
+    "Python.string_manipulation.executor": "Run",
+    "Python.variable_practice.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\madre\OneDrive\Desktop\IC-2K24-85-PythonLab-SanskritiMadrele\Lab3" />
+      <recent name="C:\Users\madre\OneDrive\Desktop\IC-2K24-85-PythonLab-SanskritiMadrele\Lab2\pattern_printing" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="IC-2K24-85-PythonLab1-SanskritiMadrele" />
