@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbd3eada-f1d6-442c-a17d-03cfc5972123" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab8/program_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/program_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/program_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab8/program_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/program_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab8/program_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab8/program_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +53,10 @@
     "Python.prefect_no.executor": "Run",
     "Python.prime.executor": "Run",
     "Python.program_1.executor": "Run",
+    "Python.program_2.executor": "Run",
+    "Python.program_3.executor": "Run",
+    "Python.program_4.executor": "Run",
+    "Python.program_5.executor": "Run",
     "Python.pyramid.executor": "Run",
     "Python.right_triangle.executor": "Run",
     "Python.square.executor": "Run",
